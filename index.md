@@ -1,8 +1,9 @@
-#The Quiz is divided in three parts:
+# Machine Learning Course - Prerequisites (Self Assessment Quiz)
+## The Quiz is divided in three parts:
 
-1. Python
-2. R
-3. MySQL
+1. **Python** _(expected score: 65% or better)_
+2. **R** _(expected score: 30% or more)_
+3. **MySQL** _(expected score: 50% or more)_
 
 ***
 
