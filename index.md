@@ -10,7 +10,7 @@
 
 
 
-_Results and score will be available after completion (Total of 86 questions).  You are responsible to assess your level (Recommended: 70% or better)_
+_Answers are available here:_  https://github.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md _(Total of 86 questions).  You are responsible to assess your level (Recommended: 70% or better)_
 
 ***
 
