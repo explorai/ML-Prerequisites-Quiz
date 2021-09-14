@@ -35,16 +35,25 @@ def sum(a, b):
 
 ```python
 def sum(a, b):
-"     a = 1     b = 2     sum(a, b) = 3     "
+"
+      a = 1     
+      b = 2     
+      sum(a, b) = 3     
+"
 
-    return a + b
+      return a + b
 ```
 
 - [ ] 
 
 ```python
 def sum(a, b):
-"     >>> a = 1     >>> b = 2     >>> sum(a, b)     3     "
+'''
+      >>> a = 1     
+      >>> b = 2     
+      >>> sum(a, b)     
+      3     
+'''
 
     return a + b
 ```
