@@ -9,8 +9,7 @@
 3. **R** 
 
 
-_Answers are available here:_  https://githu
-- [ ] B.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md _(Total of 30 questions).  You are responsible to assess your level (Recommended: 70% or better)_
+_Total of 30 questions, answers available here:_  [Answer Key](https://github.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md).   _You are responsible to assess your level of knowledge (Recommended: 70% or better)_
 
 ***
 
@@ -297,12 +296,10 @@ def __init__(attr1, attr2):
 #### 9. What is the purpose of the "self" keyword when defining or calling instance methods?
 
 - [ ] A. `self` means that no other arguments are required to be passed into the metho
-- [ ] D.
 
 - [ ] B. There is no real purpose for the `self` method; it's just historic computer science jargon that Python keeps to stay consistent with other programming languages.
 
 - [ ] C. `self` refers to the instance whose method was calle
-- [ ] D.
 
 - [ ] D. `self` refers to the class that was inherited from to create the object using `self`.
 
@@ -325,7 +322,7 @@ def __init__(attr1, attr2):
 
 - [ ] A. 
 
-```
+```sql
     1 CREATE TABLE employee (
     2 employee ID char(10),
     3 firstName varchar(50),
@@ -339,7 +336,7 @@ def __init__(attr1, attr2):
 
 - [ ] B. 
 
-```
+```sql
     1 CREATE TABLE employee (
     2 employee ID char(10),
     3 firstName varchar(50),
@@ -353,7 +350,7 @@ def __init__(attr1, attr2):
 
 - [ ] C. 
 
-```
+```sql
     1 CREATE TABLE IF EXISTS employee (
     2 employee ID char(10),
     3 firstName varchar(50),
