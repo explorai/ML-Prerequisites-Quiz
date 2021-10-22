@@ -1,13 +1,19 @@
 
-## The Quiz is divided in three parts:
+## The Quiz is divided in four parts:
 
-1. **Python**
+1. **Math**\*
+   - Calculus
+   - Linear Algebra
+   - Statistics
+   - Probability
+2. **Python**
    - Best Practice 
    - Data types 
    - Coding Skills 
 2. **MySQL** 
 3. **R** 
 
+\*Knowledge of statistics (descriptive statistics, regression, sampling distributions, hypothesis testing, interval estimation etc.), calculus (derivatives), linear algebra (vectors & matrix transformation) and probability (conditional probability/Bayes theorem) is highly recommended.  
 
 _Total of 30 questions, answers available here:_  [Answer Key](https://github.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md).   _You are responsible to assess your level of knowledge (Recommended: 70% or better)_
 
