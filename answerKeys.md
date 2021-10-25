@@ -1,7 +1,7 @@
 ### Quiz Answer
 
 #### Best Practice	
-1.	b
+1.	c
 2.	d
 3.	c
 4.	a
