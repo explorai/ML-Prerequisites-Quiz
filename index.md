@@ -10,7 +10,7 @@
 
 \*Knowledge of **statistics** (descriptive statistics, regression, sampling distributions, hypothesis testing, interval estimation etc.), **calculus** (derivatives), **linear algebra** (vectors & matrix transformation) and **probability** (conditional probability/Bayes theorem) is **recommended but not necessary**.  We encourage you to research and read on those topics.
 
-_Total of 30 questions, answers available here:_  [Answer Key](https://github.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md).   _You are responsible to assess your level of knowledge and share the results with your coach, it will help us help you.  This quiz is hard, score over 75% is an A grade_
+_Total of 30 questions, answers available here:_  [Answer Key](https://github.com/explorai/ML-Prerequisites-Quiz/blob/gh-pages/answerKeys.md).   _You are responsible to assess your level of knowledge and share the results with your coach, it will help us help you.  This quiz is meant to challenge, score over 80% is an A grade_
 
 ***
 
